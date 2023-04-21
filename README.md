@@ -1,1 +1,1 @@
-# ncbi-orthologs
+# NCBI Orthologs
