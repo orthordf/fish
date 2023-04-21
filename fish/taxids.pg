@@ -1,0 +1,336 @@
+7830 name:"Scyliorhinus canicula" common:"smaller spotted catshark"
+7868 name:"Callorhinchus milii" common:"elephant shark"
+7897 name:"Latimeria chalumnae" common:"coelacanth"
+7906 name:"Acipenser ruthenus" common:"sterlet"
+7913 name:"Polyodon spathula" common:"Mississippi paddlefish"
+7918 name:"Lepisosteus oculatus" common:"spotted gar"
+7936 name:"Anguilla anguilla" common:"European eel"
+7950 name:"Clupea harengus" common:"Atlantic herring"
+7955 name:"Danio rerio" common:"zebrafish"
+7957 name:"Carassius auratus" common:"goldfish"
+7959 name:"Ctenopharyngodon idella" common:"grass carp"
+7962 name:"Cyprinus carpio" common:"common carp"
+7994 name:"Astyanax mexicanus" common:"Mexican tetra"
+7998 name:"Ictalurus punctatus" common:"channel catfish"
+8005 name:"Electrophorus electricus" common:"electric eel"
+8010 name:"Esox lucius" common:"northern pike"
+8017 name:"Oncorhynchus gorbuscha" common:"pink salmon"
+8018 name:"Oncorhynchus keta" common:"chum salmon"
+8019 name:"Oncorhynchus kisutch" common:"coho salmon"
+8022 name:"Oncorhynchus mykiss" common:"rainbow trout"
+8023 name:"Oncorhynchus nerka" common:"sockeye salmon"
+8030 name:"Salmo salar" common:"Atlantic salmon"
+8032 name:"Salmo trutta" common:"river trout"
+8036 name:"Salvelinus alpinus" common:"Arctic char"
+8040 name:"Salvelinus namaycush" common:"lake trout"
+8049 name:"Gadus morhua" common:"Atlantic cod"
+8078 name:"Fundulus heteroclitus" common:"mummichog"
+8081 name:"Poecilia reticulata" common:"guppy"
+8083 name:"Xiphophorus maculatus" common:"southern platyfish"
+8084 name:"Xiphophorus hellerii" common:"green swordtail"
+8090 name:"Oryzias latipes" common:"Japanese medaka"
+8103 name:"Cyclopterus lumpus" common:"lumpfish"
+8128 name:"Oreochromis niloticus" common:"Nile tilapia"
+8153 name:"Haplochromis burtoni" common:"Burton's mouthbrooder"
+8154 name:"Astatotilapia calliptera" common:"eastern happy"
+8167 name:"Perca flavescens" common:"yellow perch"
+8168 name:"Perca fluviatilis" common:"European perch"
+8175 name:"Sparus aurata" common:"gilthead seabream"
+8177 name:"Acanthopagrus latus" common:"yellowfin seabream"
+8187 name:"Lates calcarifer" common:"barramundi perch"
+8208 name:"Notothenia coriiceps" common:"black rockcod"
+8218 name:"Gymnodraco acuticeps" common:""
+8236 name:"Thunnus albacares" common:"yellowfin tuna"
+8240 name:"Thunnus maccoyii" common:"southern bluefin tuna"
+8245 name:"Xiphias gladius" common:"swordfish"
+8255 name:"Paralichthys olivaceus" common:"Japanese flounder"
+8262 name:"Pleuronectes platessa" common:"European plaice"
+8267 name:"Hippoglossus hippoglossus" common:"Atlantic halibut"
+9031 name:"Gallus gallus" common:"chicken"
+9606 name:"Homo sapiens" common:"human"
+10090 name:"Mus musculus" common:"house mouse"
+13013 name:"Clarias gariepinus" common:"North African catfish"
+13397 name:"Carcharodon carcharias" common:"great white shark"
+13489 name:"Dicentrarchus labrax" common:"European seabass"
+13676 name:"Scomber japonicus" common:"chub mackerel"
+27687 name:"Erpetoichthys calabaricus" common:"reedfish"
+27706 name:"Micropterus salmoides" common:"largemouth bass"
+28743 name:"Cyprinodon variegatus" common:"sheepshead minnow"
+28829 name:"Solea senegalensis" common:"Senegalese sole"
+29144 name:"Chanos chanos" common:"milkfish"
+30732 name:"Oryzias melastigma" common:"Indian medaka"
+31033 name:"Takifugu rubripes" common:"torafugu"
+32473 name:"Xiphophorus couchianus" common:"Monterrey platyfish"
+32507 name:"Neolamprologus brichardi" common:""
+33528 name:"Gambusia affinis" common:"western mosquitofish"
+34773 name:"Alosa sapidissima" common:"American shad"
+34816 name:"Morone saxatilis" common:"striped sea-bass"
+36176 name:"Chiloscyllium plagiosum" common:"whitespotted bambooshark"
+37003 name:"Kryptolebias marmoratus" common:"mangrove rivulus"
+40690 name:"Trematomus bernacchii" common:"emerald rockcod"
+41447 name:"Seriola dumerili" common:"greater amberjack"
+42514 name:"Pygocentrus nattereri" common:"red-bellied piranha"
+42526 name:"Colossoma macropomum" common:"tambaqui"
+42636 name:"Brienomyrus brachyistius" common:""
+43689 name:"Simochromis diagramma" common:""
+43700 name:"Monopterus albus" common:"swamp eel"
+47969 name:"Oreochromis aureus" common:""
+48193 name:"Mugil cephalus" common:"flathead mullet"
+48698 name:"Poecilia formosa" common:"Amazon molly"
+48699 name:"Poecilia latipinna" common:"sailfin molly"
+48701 name:"Poecilia mexicana" common:""
+52239 name:"Pseudochaenichthys georgianus" common:"South Georgia icefish"
+52670 name:"Austrofundulus limnaeus" common:""
+52904 name:"Scophthalmus maximus" common:"turbot"
+54343 name:"Etheostoma spectabile" common:"orangethroat darter"
+55291 name:"Polypterus senegalus" common:"gray bichir"
+56716 name:"Cottoperca gobio" common:""
+56723 name:"Labrus bergylta" common:"ballan wrasse"
+59861 name:"Coregonus clupeaformis" common:"lake whitefish"
+63155 name:"Archocentrus centrarchus" common:"flier cichlid"
+64144 name:"Anabas testudineus" common:"climbing perch"
+66913 name:"Ictalurus furcatus" common:"blue catfish"
+69293 name:"Gasterosteus aculeatus" common:"three-spined stickleback"
+70543 name:"Myxocyprinus asiaticus" common:"Chinese sucker"
+72105 name:"Sebastes umbrosus" common:"honeycomb rockfish"
+74940 name:"Oncorhynchus tshawytscha" common:"Chinook salmon"
+75038 name:"Scatophagus argus" common:""
+75329 name:"Misgurnus anguillicaudatus" common:"oriental weatherfish"
+75352 name:"Megalobrama amblycephala" common:"Wuchang bream"
+75366 name:"Sinocyclocheilus grahami" common:""
+77115 name:"Cyprinodon tularosa" common:""
+80966 name:"Acanthochromis polyacanthus" common:"spiny chromis"
+80972 name:"Amphiprion ocellaris" common:"clown anemonefish"
+84645 name:"Labeo rohita" common:"rohu"
+90988 name:"Pimephales promelas" common:"fathead minnow"
+101364 name:"Carassius gibelio" common:"silver crucian carp"
+105023 name:"Nothobranchius furzeri" common:"turquoise killifish"
+106582 name:"Maylandia zebra" common:"zebra mbuna"
+109280 name:"Hippocampus comes" common:"tiger tail seahorse"
+109293 name:"Hippocampus zosterae" common:"dwarf seahorse"
+109905 name:"Chelmon rostratus" common:"copperband butterflyfish"
+113540 name:"Scleropages formosus" common:"Asian bonytongue"
+118141 name:"Megalops cyprinoides" common:"Indo-Pacific tarpon"
+119488 name:"Siniperca chuatsi" common:"mandarin fish"
+134920 name:"Pungitius pungitius" common:"ninespine stickleback"
+137520 name:"Hypomesus transpacificus" common:""
+144197 name:"Stegastes partitus" common:"bicolor damselfish"
+147949 name:"Micropterus dolomieu" common:"smallmouth bass"
+150288 name:"Boleophthalmus pectinirostris" common:"great blue-spotted mudskipper"
+154827 name:"Xyrauchen texanus" common:"razorback sucker"
+158456 name:"Betta splendens" common:"Siamese fighting fish"
+160734 name:"Plectropomus leopardus" common:"leopard coralgrouper"
+161453 name:"Dunckerocampus dactyliophorus" common:"ringed pipefish"
+161584 name:"Syngnathus acus" common:"greater pipefish"
+161590 name:"Syngnathus scovelli" common:"Gulf pipefish"
+173247 name:"Echeneis naucrates" common:"live sharksucker"
+175797 name:"Silurus meridionalis" common:""
+181472 name:"Salarias fasciatus" common:"jewelled blenny"
+188132 name:"Poeciliopsis prolifica" common:"blackstripe livebearer"
+195615 name:"Hippoglossus stenolepis" common:"Pacific halibut"
+205130 name:"Mastacembelus armatus" common:"zig-zag eel"
+208333 name:"Girardinichthys multiradiatus" common:""
+210632 name:"Parambassis ranga" common:"Indian glassy fish"
+215358 name:"Larimichthys crocea" common:"large yellow croaker"
+229290 name:"Anoplopoma fimbria" common:"sablefish"
+241271 name:"Cheilinus undulatus" common:"humphead wrasse"
+244447 name:"Cynoglossus semilaevis" common:"tongue sole"
+259920 name:"Rhincodon typus" common:"whale shark"
+270530 name:"Synchiropus splendidus" common:"mandarinfish"
+278164 name:"Alosa alosa" common:"allis shad"
+283035 name:"Sander lucioperca" common:"pikeperch"
+293821 name:"Epinephelus fuscoguttatus" common:"brown-marbled grouper"
+299321 name:"Denticeps clupeoides" common:"denticle herring"
+300413 name:"Epinephelus moara" common:"kelp grouper"
+303518 name:"Pundamilia nyererei" common:""
+307959 name:"Sinocyclocheilus rhinocerous" common:""
+310571 name:"Epinephelus lanceolatus" common:"giant grouper"
+310915 name:"Pangasianodon hypophthalmus" common:"striped catfish"
+375764 name:"Sphaeramia orbicularis" common:"orbiculate cardinalfish"
+378071 name:"Stegostoma fasciatum" common:""
+390379 name:"Thalassophryne amazonica" common:""
+409849 name:"Periophthalmus magnuspinnatus" common:""
+417921 name:"Etheostoma cragini" common:"Arkansas darter"
+433405 name:"Anarrhichthys ocellatus" common:"wolf-eel"
+441366 name:"Gouania willdenowi" common:"blunt-snouted clingfish"
+451745 name:"Nematolebias whitei" common:"Rio pearlfish"
+586833 name:"Myripristis murdjan" common:"pinecone soldierfish"
+685728 name:"Pristis pectinata" common:"smalltooth sawfish"
+941984 name:"Toxotes jaculatrix" common:"banded archerfish"
+1203425 name:"Notolabrus celidotus" common:"New Zealand spotty"
+1234273 name:"Tachysurus fulvidraco" common:"yellow catfish"
+1250792 name:"Melanotaenia boesemani" common:"Boeseman's rainbowfish"
+1606681 name:"Puntigrus tetrazona" common:"Sumatra barb"
+1608454 name:"Sinocyclocheilus anshuiensis" common:""
+1676925 name:"Paramormyrops kingsleyae" common:""
+1841481 name:"Seriola lalandi dorsalis" common:""
+10090 -> 7955 :hasOrthologs
+7955 -> 101364 :hasOrthologs
+7955 -> 105023 :hasOrthologs
+7955 -> 106582 :hasOrthologs
+7955 -> 109280 :hasOrthologs
+7955 -> 109293 :hasOrthologs
+7955 -> 109905 :hasOrthologs
+7955 -> 113540 :hasOrthologs
+7955 -> 118141 :hasOrthologs
+7955 -> 119488 :hasOrthologs
+7955 -> 1203425 :hasOrthologs
+7955 -> 1234273 :hasOrthologs
+7955 -> 1250792 :hasOrthologs
+7955 -> 13013 :hasOrthologs
+7955 -> 13397 :hasOrthologs
+7955 -> 13489 :hasOrthologs
+7955 -> 134920 :hasOrthologs
+7955 -> 13676 :hasOrthologs
+7955 -> 137520 :hasOrthologs
+7955 -> 144197 :hasOrthologs
+7955 -> 147949 :hasOrthologs
+7955 -> 150288 :hasOrthologs
+7955 -> 154827 :hasOrthologs
+7955 -> 158456 :hasOrthologs
+7955 -> 1606681 :hasOrthologs
+7955 -> 160734 :hasOrthologs
+7955 -> 1608454 :hasOrthologs
+7955 -> 161453 :hasOrthologs
+7955 -> 161584 :hasOrthologs
+7955 -> 161590 :hasOrthologs
+7955 -> 1676925 :hasOrthologs
+7955 -> 173247 :hasOrthologs
+7955 -> 175797 :hasOrthologs
+7955 -> 181472 :hasOrthologs
+7955 -> 1841481 :hasOrthologs
+7955 -> 188132 :hasOrthologs
+7955 -> 195615 :hasOrthologs
+7955 -> 205130 :hasOrthologs
+7955 -> 208333 :hasOrthologs
+7955 -> 210632 :hasOrthologs
+7955 -> 215358 :hasOrthologs
+7955 -> 229290 :hasOrthologs
+7955 -> 241271 :hasOrthologs
+7955 -> 244447 :hasOrthologs
+7955 -> 259920 :hasOrthologs
+7955 -> 270530 :hasOrthologs
+7955 -> 27687 :hasOrthologs
+7955 -> 27706 :hasOrthologs
+7955 -> 278164 :hasOrthologs
+7955 -> 283035 :hasOrthologs
+7955 -> 28743 :hasOrthologs
+7955 -> 28829 :hasOrthologs
+7955 -> 29144 :hasOrthologs
+7955 -> 293821 :hasOrthologs
+7955 -> 299321 :hasOrthologs
+7955 -> 300413 :hasOrthologs
+7955 -> 303518 :hasOrthologs
+7955 -> 30732 :hasOrthologs
+7955 -> 307959 :hasOrthologs
+7955 -> 31033 :hasOrthologs
+7955 -> 310571 :hasOrthologs
+7955 -> 310915 :hasOrthologs
+7955 -> 32473 :hasOrthologs
+7955 -> 32507 :hasOrthologs
+7955 -> 33528 :hasOrthologs
+7955 -> 34773 :hasOrthologs
+7955 -> 34816 :hasOrthologs
+7955 -> 36176 :hasOrthologs
+7955 -> 37003 :hasOrthologs
+7955 -> 375764 :hasOrthologs
+7955 -> 378071 :hasOrthologs
+7955 -> 390379 :hasOrthologs
+7955 -> 40690 :hasOrthologs
+7955 -> 409849 :hasOrthologs
+7955 -> 41447 :hasOrthologs
+7955 -> 417921 :hasOrthologs
+7955 -> 42514 :hasOrthologs
+7955 -> 42526 :hasOrthologs
+7955 -> 42636 :hasOrthologs
+7955 -> 433405 :hasOrthologs
+7955 -> 43689 :hasOrthologs
+7955 -> 43700 :hasOrthologs
+7955 -> 441366 :hasOrthologs
+7955 -> 451745 :hasOrthologs
+7955 -> 47969 :hasOrthologs
+7955 -> 48193 :hasOrthologs
+7955 -> 48698 :hasOrthologs
+7955 -> 48699 :hasOrthologs
+7955 -> 48701 :hasOrthologs
+7955 -> 52239 :hasOrthologs
+7955 -> 52670 :hasOrthologs
+7955 -> 52904 :hasOrthologs
+7955 -> 54343 :hasOrthologs
+7955 -> 55291 :hasOrthologs
+7955 -> 56716 :hasOrthologs
+7955 -> 56723 :hasOrthologs
+7955 -> 586833 :hasOrthologs
+7955 -> 59861 :hasOrthologs
+7955 -> 63155 :hasOrthologs
+7955 -> 64144 :hasOrthologs
+7955 -> 66913 :hasOrthologs
+7955 -> 685728 :hasOrthologs
+7955 -> 69293 :hasOrthologs
+7955 -> 70543 :hasOrthologs
+7955 -> 72105 :hasOrthologs
+7955 -> 74940 :hasOrthologs
+7955 -> 75038 :hasOrthologs
+7955 -> 75329 :hasOrthologs
+7955 -> 75352 :hasOrthologs
+7955 -> 75366 :hasOrthologs
+7955 -> 77115 :hasOrthologs
+7955 -> 7830 :hasOrthologs
+7955 -> 7868 :hasOrthologs
+7955 -> 7897 :hasOrthologs
+7955 -> 7906 :hasOrthologs
+7955 -> 7913 :hasOrthologs
+7955 -> 7918 :hasOrthologs
+7955 -> 7936 :hasOrthologs
+7955 -> 7950 :hasOrthologs
+7955 -> 7957 :hasOrthologs
+7955 -> 7959 :hasOrthologs
+7955 -> 7962 :hasOrthologs
+7955 -> 7994 :hasOrthologs
+7955 -> 7998 :hasOrthologs
+7955 -> 8005 :hasOrthologs
+7955 -> 8010 :hasOrthologs
+7955 -> 8017 :hasOrthologs
+7955 -> 8018 :hasOrthologs
+7955 -> 8019 :hasOrthologs
+7955 -> 8022 :hasOrthologs
+7955 -> 8023 :hasOrthologs
+7955 -> 8030 :hasOrthologs
+7955 -> 8032 :hasOrthologs
+7955 -> 8036 :hasOrthologs
+7955 -> 8040 :hasOrthologs
+7955 -> 8049 :hasOrthologs
+7955 -> 8078 :hasOrthologs
+7955 -> 8081 :hasOrthologs
+7955 -> 8083 :hasOrthologs
+7955 -> 8084 :hasOrthologs
+7955 -> 8090 :hasOrthologs
+7955 -> 80966 :hasOrthologs
+7955 -> 80972 :hasOrthologs
+7955 -> 8103 :hasOrthologs
+7955 -> 8128 :hasOrthologs
+7955 -> 8153 :hasOrthologs
+7955 -> 8154 :hasOrthologs
+7955 -> 8167 :hasOrthologs
+7955 -> 8168 :hasOrthologs
+7955 -> 8175 :hasOrthologs
+7955 -> 8177 :hasOrthologs
+7955 -> 8187 :hasOrthologs
+7955 -> 8208 :hasOrthologs
+7955 -> 8218 :hasOrthologs
+7955 -> 8236 :hasOrthologs
+7955 -> 8240 :hasOrthologs
+7955 -> 8245 :hasOrthologs
+7955 -> 8255 :hasOrthologs
+7955 -> 8262 :hasOrthologs
+7955 -> 8267 :hasOrthologs
+7955 -> 84645 :hasOrthologs
+7955 -> 90988 :hasOrthologs
+7955 -> 941984 :hasOrthologs
+9031 -> 7955 :hasOrthologs
+9031 -> 8128 :hasOrthologs
+9606 -> 31033 :hasOrthologs
+9606 -> 7936 :hasOrthologs
+9606 -> 7955 :hasOrthologs
+9606 -> 8090 :hasOrthologs
+9606 -> 8128 :hasOrthologs
