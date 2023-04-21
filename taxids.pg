@@ -1,0 +1,1489 @@
+7070 name:"Tribolium castaneum" common:"red flour beetle"
+7668 name:"Strongylocentrotus purpuratus" common:"purple sea urchin"
+7757 name:"Petromyzon marinus" common:"sea lamprey"
+7830 name:"Scyliorhinus canicula" common:"smaller spotted catshark"
+7868 name:"Callorhinchus milii" common:"elephant shark"
+7888 name:"Protopterus annectens" common:"West African lungfish"
+7897 name:"Latimeria chalumnae" common:"coelacanth"
+7906 name:"Acipenser ruthenus" common:"sterlet"
+7913 name:"Polyodon spathula" common:"Mississippi paddlefish"
+7918 name:"Lepisosteus oculatus" common:"spotted gar"
+7936 name:"Anguilla anguilla" common:"European eel"
+7950 name:"Clupea harengus" common:"Atlantic herring"
+7955 name:"Danio rerio" common:"zebrafish"
+7957 name:"Carassius auratus" common:"goldfish"
+7959 name:"Ctenopharyngodon idella" common:"grass carp"
+7962 name:"Cyprinus carpio" common:"common carp"
+7994 name:"Astyanax mexicanus" common:"Mexican tetra"
+7998 name:"Ictalurus punctatus" common:"channel catfish"
+8005 name:"Electrophorus electricus" common:"electric eel"
+8010 name:"Esox lucius" common:"northern pike"
+8017 name:"Oncorhynchus gorbuscha" common:"pink salmon"
+8018 name:"Oncorhynchus keta" common:"chum salmon"
+8019 name:"Oncorhynchus kisutch" common:"coho salmon"
+8022 name:"Oncorhynchus mykiss" common:"rainbow trout"
+8023 name:"Oncorhynchus nerka" common:"sockeye salmon"
+8030 name:"Salmo salar" common:"Atlantic salmon"
+8032 name:"Salmo trutta" common:"river trout"
+8036 name:"Salvelinus alpinus" common:"Arctic char"
+8040 name:"Salvelinus namaycush" common:"lake trout"
+8049 name:"Gadus morhua" common:"Atlantic cod"
+8078 name:"Fundulus heteroclitus" common:"mummichog"
+8081 name:"Poecilia reticulata" common:"guppy"
+8083 name:"Xiphophorus maculatus" common:"southern platyfish"
+8084 name:"Xiphophorus hellerii" common:"green swordtail"
+8090 name:"Oryzias latipes" common:"Japanese medaka"
+8103 name:"Cyclopterus lumpus" common:"lumpfish"
+8128 name:"Oreochromis niloticus" common:"Nile tilapia"
+8153 name:"Haplochromis burtoni" common:"Burton's mouthbrooder"
+8154 name:"Astatotilapia calliptera" common:"eastern happy"
+8167 name:"Perca flavescens" common:"yellow perch"
+8168 name:"Perca fluviatilis" common:"European perch"
+8175 name:"Sparus aurata" common:"gilthead seabream"
+8177 name:"Acanthopagrus latus" common:"yellowfin seabream"
+8187 name:"Lates calcarifer" common:"barramundi perch"
+8208 name:"Notothenia coriiceps" common:"black rockcod"
+8218 name:"Gymnodraco acuticeps" common:""
+8236 name:"Thunnus albacares" common:"yellowfin tuna"
+8240 name:"Thunnus maccoyii" common:"southern bluefin tuna"
+8245 name:"Xiphias gladius" common:"swordfish"
+8255 name:"Paralichthys olivaceus" common:"Japanese flounder"
+8262 name:"Pleuronectes platessa" common:"European plaice"
+8267 name:"Hippoglossus hippoglossus" common:"Atlantic halibut"
+8345 name:"Bombina bombina" common:"fire-bellied toad"
+8355 name:"Xenopus laevis" common:"African clawed frog"
+8364 name:"Xenopus tropicalis" common:"tropical clawed frog"
+8384 name:"Bufo bufo" common:"common toad"
+8407 name:"Rana temporaria" common:"common frog"
+8467 name:"Caretta caretta" common:"Loggerhead turtle"
+8469 name:"Chelonia mydas" common:"Green sea turtle"
+8479 name:"Chrysemys picta" common:"Painted turtle"
+8496 name:"Alligator mississippiensis" common:"American alligator"
+8502 name:"Crocodylus porosus" common:"Australian saltwater crocodile"
+8520 name:"Sceloporus undulatus" common:"fence lizard"
+8524 name:"Zootoca vivipara" common:"common lizard"
+8663 name:"Notechis scutatus" common:"mainland tiger snake"
+8673 name:"Pseudonaja textilis" common:""
+8790 name:"Dromaius novaehollandiae" common:"emu"
+8839 name:"Anas platyrhynchos" common:"mallard"
+8845 name:"Anser cygnoides" common:"Swan goose"
+8868 name:"Cygnus atratus" common:"black swan"
+8869 name:"Cygnus olor" common:"mute swan"
+8884 name:"Oxyura jamaicensis" common:"ruddy duck"
+8895 name:"Apus apus" common:"common swift"
+8897 name:"Chaetura pelagica" common:"chimney swift"
+8932 name:"Columba livia" common:"rock pigeon"
+8954 name:"Falco peregrinus" common:"peregrine falcon"
+8957 name:"Accipiter gentilis" common:"Northern goshawk"
+8969 name:"Haliaeetus albicilla" common:"white-tailed eagle"
+8996 name:"Numida meleagris" common:"helmeted guineafowl"
+9002 name:"Centrocercus urophasianus" common:"Greater sage-grouse"
+9031 name:"Gallus gallus" common:"chicken"
+9054 name:"Phasianus colchicus" common:"Ring-necked pheasant"
+9103 name:"Meleagris gallopavo" common:"turkey"
+9117 name:"Grus americana" common:"Whooping crane"
+9135 name:"Serinus canaria" common:"Common canary"
+9157 name:"Parus major" common:"Great Tit"
+9160 name:"Passer montanus" common:"Eurasian tree sparrow"
+9172 name:"Sturnus vulgaris" common:"Common starling"
+9209 name:"Phalacrocorax carbo" common:"great cormorant"
+9233 name:"Aptenodytes forsteri" common:"emperor penguin"
+9238 name:"Pygoscelis adeliae" common:"Adelie penguin"
+9244 name:"Calypte anna" common:"Anna's hummingbird"
+9258 name:"Ornithorhynchus anatinus" common:"platypus"
+9261 name:"Tachyglossus aculeatus" common:"Australian echidna"
+9305 name:"Sarcophilus harrisii" common:"Tasmanian devil"
+9337 name:"Trichosurus vulpecula" common:"common brushtail"
+9361 name:"Dasypus novemcinctus" common:"nine-banded armadillo"
+9365 name:"Erinaceus europaeus" common:"western European hedgehog"
+9371 name:"Echinops telfairi" common:"small Madagascar hedgehog"
+9402 name:"Pteropus alecto" common:"black flying fox"
+9407 name:"Rousettus aegyptiacus" common:"Egyptian rousette"
+9417 name:"Artibeus jamaicensis" common:"Jamaican fruit-eating bat"
+9423 name:"Phyllostomus hastatus" common:"greater spear-nosed bat"
+9430 name:"Desmodus rotundus" common:"common vampire bat"
+9447 name:"Lemur catta" common:"Ring-tailed lemur"
+9470 name:"Nycticebus coucang" common:"slow loris"
+9483 name:"Callithrix jacchus" common:"white-tufted-ear marmoset"
+9515 name:"Sapajus apella" common:"tufted capuchin"
+9531 name:"Cercocebus atys" common:"sooty mangabey"
+9541 name:"Macaca fascicularis" common:"crab-eating macaque"
+9544 name:"Macaca mulatta" common:"Rhesus monkey"
+9545 name:"Macaca nemestrina" common:"pig-tailed macaque"
+9555 name:"Papio anubis" common:"olive baboon"
+9565 name:"Theropithecus gelada" common:"gelada"
+9568 name:"Mandrillus leucophaeus" common:"drill"
+9590 name:"Symphalangus syndactylus" common:"siamang"
+9595 name:"Gorilla gorilla gorilla" common:"western lowland gorilla"
+9597 name:"Pan paniscus" common:"pygmy chimpanzee"
+9598 name:"Pan troglodytes" common:"chimpanzee"
+9600 name:"Pongo pygmaeus" common:"Bornean orangutan"
+9601 name:"Pongo abelii" common:"Sumatran orangutan"
+9606 name:"Homo sapiens" common:"human"
+9615 name:"Canis lupus familiaris" common:"dog"
+9627 name:"Vulpes vulpes" common:"red fox"
+9643 name:"Ursus americanus" common:"American black bear"
+9644 name:"Ursus arctos" common:"brown bear"
+9646 name:"Ailuropoda melanoleuca" common:"giant panda"
+9657 name:"Lutra lutra" common:"Eurasian river otter"
+9662 name:"Meles meles" common:"Eurasian badger"
+9669 name:"Mustela putorius furo" common:"domestic ferret"
+9685 name:"Felis catus" common:"domestic cat"
+9689 name:"Panthera leo" common:"lion"
+9691 name:"Panthera pardus" common:"leopard"
+9694 name:"Panthera tigris" common:"tiger"
+9696 name:"Puma concolor" common:"puma"
+9704 name:"Zalophus californianus" common:"California sea lion"
+9708 name:"Odobenus rosmarus divergens" common:"Pacific walrus"
+9711 name:"Halichoerus grypus" common:"gray seal"
+9713 name:"Leptonychotes weddellii" common:"Weddell seal"
+9715 name:"Mirounga leonina" common:"Southern elephant seal"
+9716 name:"Mirounga angustirostris" common:"Northern elephant seal"
+9720 name:"Phoca vitulina" common:"harbor seal"
+9731 name:"Globicephala melas" common:"long-finned pilot whale"
+9733 name:"Orcinus orca" common:"killer whale"
+9739 name:"Tursiops truncatus" common:"common bottlenose dolphin"
+9749 name:"Delphinapterus leucas" common:"beluga whale"
+9755 name:"Physeter catodon" common:"sperm whale"
+9771 name:"Balaenoptera musculus" common:"Blue whale"
+9785 name:"Loxodonta africana" common:"African savanna elephant"
+9793 name:"Equus asinus" common:"ass"
+9796 name:"Equus caballus" common:"horse"
+9798 name:"Equus przewalskii" common:"Przewalski's horse"
+9823 name:"Sus scrofa" common:"pig"
+9837 name:"Camelus bactrianus" common:"Bactrian camel"
+9838 name:"Camelus dromedarius" common:"Arabian camel"
+9860 name:"Cervus elaphus" common:"red deer"
+9874 name:"Odocoileus virginianus" common:"white-tailed deer"
+9913 name:"Bos taurus" common:"cattle"
+9915 name:"Bos indicus" common:"zebu cattle"
+9925 name:"Capra hircus" common:"goat"
+9940 name:"Ovis aries" common:"sheep"
+9974 name:"Manis javanica" common:"Malayan pangolin"
+9978 name:"Ochotona princeps" common:"American pika"
+9986 name:"Oryctolagus cuniculus" common:"rabbit"
+9994 name:"Marmota marmota marmota" common:"Alpine marmot"
+9995 name:"Marmota monax" common:"woodchuck"
+9999 name:"Urocitellus parryii" common:"Arctic ground squirrel"
+10020 name:"Dipodomys ordii" common:"Ord's kangaroo rat"
+10029 name:"Cricetulus griseus" common:"Chinese hamster"
+10036 name:"Mesocricetus auratus" common:"golden hamster"
+10041 name:"Peromyscus leucopus" common:"white-footed mouse"
+10047 name:"Meriones unguiculatus" common:"Mongolian gerbil"
+10089 name:"Mus caroli" common:"Ryukyu mouse"
+10090 name:"Mus musculus" common:"house mouse"
+10093 name:"Mus pahari" common:"shrew mouse"
+10116 name:"Rattus norvegicus" common:"Norway rat"
+10117 name:"Rattus rattus" common:"black rat"
+10129 name:"Apodemus sylvaticus" common:"European woodmouse"
+10141 name:"Cavia porcellus" common:"domestic guinea pig"
+10160 name:"Octodon degus" common:"degu"
+10181 name:"Heterocephalus glaber" common:"naked mole-rat"
+13013 name:"Clarias gariepinus" common:"North African catfish"
+13146 name:"Melopsittacus undulatus" common:"budgerigar"
+13397 name:"Carcharodon carcharias" common:"great white shark"
+13489 name:"Dicentrarchus labrax" common:"European seabass"
+13616 name:"Monodelphis domestica" common:"gray short-tailed opossum"
+13676 name:"Scomber japonicus" common:"chub mackerel"
+13735 name:"Pelodiscus sinensis" common:"Chinese soft-shelled turtle"
+27622 name:"Molossus molossus" common:"Pallas's mastiff bat"
+27675 name:"Choloepus didactylus" common:"southern two-toed sloth"
+27679 name:"Saimiri boliviensis" common:"Bolivian squirrel monkey"
+27687 name:"Erpetoichthys calabaricus" common:"reedfish"
+27706 name:"Micropterus salmoides" common:"largemouth bass"
+27794 name:"Dermochelys coriacea" common:"leatherback sea turtle"
+28377 name:"Anolis carolinensis" common:"green anole"
+28737 name:"Elephantulus edwardii" common:"Cape elephant shrew"
+28743 name:"Cyprinodon variegatus" common:"sheepshead minnow"
+28829 name:"Solea senegalensis" common:"Senegalese sole"
+29064 name:"Panthera uncia" common:"snow leopard"
+29073 name:"Ursus maritimus" common:"polar bear"
+29078 name:"Eptesicus fuscus" common:"big brown bat"
+29088 name:"Neomonachus schauinslandi" common:"Hawaiian monk seal"
+29139 name:"Vombatus ursinus" common:"common wombat"
+29144 name:"Chanos chanos" common:"milkfish"
+30331 name:"Bufo gargarizans" common:"Asiatic toad"
+30410 name:"Lagopus leucura" common:"white-tailed ptarmigan"
+30419 name:"Opisthocomus hoazin" common:""
+30455 name:"Fulmarus glacialis" common:"Northern fulmar"
+30464 name:"Nothoprocta perdicaria" common:""
+30522 name:"Bos indicus x Bos taurus" common:"hybrid cattle"
+30538 name:"Vicugna pacos" common:"alpaca"
+30608 name:"Microcebus murinus" common:"gray mouse lemur"
+30611 name:"Otolemur garnettii" common:"small-eared galago"
+30640 name:"Sciurus carolinensis" common:"gray squirrel"
+30732 name:"Oryzias melastigma" common:"Indian medaka"
+31033 name:"Takifugu rubripes" common:"torafugu"
+31138 name:"Trachemys scripta elegans" common:""
+32473 name:"Xiphophorus couchianus" common:"Monterrey platyfish"
+32507 name:"Neolamprologus brichardi" common:""
+32536 name:"Acinonyx jubatus" common:"cheetah"
+33528 name:"Gambusia affinis" common:"western mosquitofish"
+33562 name:"Dromiciops gliroides" common:"monito del monte"
+33616 name:"Gymnogyps californianus" common:"California condor"
+34773 name:"Alosa sapidissima" common:"American shad"
+34816 name:"Morone saxatilis" common:"striped sea-bass"
+34839 name:"Chinchilla lanigera" common:"long-tailed chinchilla"
+34884 name:"Callorhinus ursinus" common:"northern fur seal"
+34886 name:"Eumetopias jubatus" common:"Steller sea lion"
+35005 name:"Thamnophis elegans" common:"Western terrestrial garter snake"
+35019 name:"Thamnophis sirtalis" common:""
+35658 name:"Mastomys coucha" common:"southern multimammate mouse"
+36176 name:"Chiloscyllium plagiosum" common:"whitespotted bambooshark"
+36300 name:"Pelecanus crispus" common:"Dalmatian pelican"
+36723 name:"Mustela erminea" common:"ermine"
+37003 name:"Kryptolebias marmoratus" common:"mangrove rivulus"
+37029 name:"Prionailurus bengalensis" common:"leopard cat"
+37032 name:"Suricata suricatta" common:"meerkat"
+37040 name:"Gavia stellata" common:"red-throated loon"
+37181 name:"Budorcas taxicolor" common:"takin"
+37293 name:"Aotus nancymaae" common:"Ma's night monkey"
+38626 name:"Phascolarctos cinereus" common:"koala"
+38654 name:"Alligator sinensis" common:"Chinese alligator"
+38674 name:"Onychomys torridus" common:"southern grasshopper mouse"
+38775 name:"Antechinus flavipes" common:"yellow-footed antechinus"
+39638 name:"Agelaius phoeniceus" common:"red-winged blackbird"
+40151 name:"Monodon monoceros" common:"narwhal"
+40204 name:"Melozone crissalis" common:"California towhee"
+40690 name:"Trematomus bernacchii" common:"emerald rockcod"
+41426 name:"Phacochoerus africanus" common:"Common warthog"
+41447 name:"Seriola dumerili" common:"greater amberjack"
+42100 name:"Phocoena sinus" common:"vaquita"
+42254 name:"Sorex araneus" common:"European shrew"
+42514 name:"Pygocentrus nattereri" common:"red-bellied piranha"
+42526 name:"Colossoma macropomum" common:"tambaqui"
+42636 name:"Brienomyrus brachyistius" common:""
+43150 name:"Hirundo rustica" common:"Barn swallow"
+43179 name:"Ictidomys tridecemlineatus" common:"thirteen-lined ground squirrel"
+43346 name:"Bison bison bison" common:""
+43689 name:"Simochromis diagramma" common:""
+43700 name:"Monopterus albus" common:"swamp eel"
+44394 name:"Zonotrichia albicollis" common:"white-throated sparrow"
+46844 name:"Leopardus geoffroyi" common:"Geoffroy's cat"
+47969 name:"Oreochromis aureus" common:""
+48193 name:"Mugil cephalus" common:"flathead mullet"
+48698 name:"Poecilia formosa" common:"Amazon molly"
+48699 name:"Poecilia latipinna" common:"sailfin molly"
+48701 name:"Poecilia mexicana" common:""
+48883 name:"Geospiza fortis" common:"medium ground-finch"
+50402 name:"Charadrius vociferus" common:"killdeer"
+50954 name:"Talpa occidentalis" common:"Iberian mole"
+51298 name:"Myotis myotis" common:""
+51337 name:"Jaculus jaculus" common:"lesser Egyptian jerboa"
+51338 name:"Castor canadensis" common:"American beaver"
+52239 name:"Pseudochaenichthys georgianus" common:"South Georgia icefish"
+52644 name:"Haliaeetus leucocephalus" common:"bald eagle"
+52670 name:"Austrofundulus limnaeus" common:""
+52904 name:"Scophthalmus maximus" common:"turbot"
+54180 name:"Trachypithecus francoisi" common:"Francois's langur"
+54343 name:"Etheostoma spectabile" common:"orangethroat darter"
+54374 name:"Mesitornis unicolor" common:"brown roatelo"
+54380 name:"Cariama cristata" common:"Red-legged seriema"
+54383 name:"Eurypyga helias" common:"sunbittern"
+55291 name:"Polypterus senegalus" common:"gray bichir"
+55661 name:"Cuculus canorus" common:"common cuckoo"
+56313 name:"Tyto alba" common:"Barn owl"
+56716 name:"Cottoperca gobio" common:""
+56723 name:"Labrus bergylta" common:"ballan wrasse"
+57068 name:"Acanthisitta chloris" common:"rifleman"
+57397 name:"Apaloderma vittatum" common:"bar-tailed trogon"
+57412 name:"Colius striatus" common:"speckled mousebird"
+57421 name:"Merops nubicus" common:"carmine bee-eater"
+59463 name:"Myotis lucifugus" common:"little brown bat"
+59472 name:"Pipistrellus kuhlii" common:"Kuhl's pipistrelle"
+59479 name:"Rhinolophus ferrumequinum" common:"greater horseshoe bat"
+59534 name:"Oryx dammah" common:"scimitar-horned oryx"
+59729 name:"Taeniopygia guttata" common:"zebra finch"
+59861 name:"Coregonus clupeaformis" common:"lake whitefish"
+59894 name:"Ficedula albicollis" common:"Collared flycatcher"
+60711 name:"Chlorocebus sabaeus" common:"green monkey"
+60746 name:"Acomys russatus" common:"golden spiny mouse"
+61156 name:"Arvicanthis niloticus" common:"Nile rat"
+61221 name:"Varanus komodoensis" common:"Komodo dragon"
+61383 name:"Lynx canadensis" common:"Canada lynx"
+61384 name:"Lynx rufus" common:"bobcat"
+61388 name:"Prionailurus viverrinus" common:"fishing cat"
+61621 name:"Rhinopithecus bieti" common:"black snub-nosed monkey"
+61622 name:"Rhinopithecus roxellana" common:"golden snub-nosed monkey"
+61853 name:"Nomascus leucogenys" common:"northern white-cheeked gibbon"
+63155 name:"Archocentrus centrarchus" common:"flier cichlid"
+64144 name:"Anabas testudineus" common:"climbing perch"
+64176 name:"Podarcis muralis" common:"Common wall lizard"
+64668 name:"Lagopus muta" common:"rock ptarmigan"
+65483 name:"Podarcis raffonei" common:"Aeolian wall lizard"
+66913 name:"Ictalurus furcatus" common:"blue catfish"
+68294 name:"Corvus kubaryi" common:"Mariana crow"
+69293 name:"Gasterosteus aculeatus" common:"three-spined stickleback"
+70543 name:"Myxocyprinus asiaticus" common:"Chinese sucker"
+72004 name:"Bos mutus" common:"wild yak"
+72105 name:"Sebastes umbrosus" common:"honeycomb rockfish"
+73337 name:"Ceratotherium simum simum" common:"southern white rhinoceros"
+74926 name:"Mauremys mutica" common:"yellowpond turtle"
+74940 name:"Oncorhynchus tshawytscha" common:"Chinook salmon"
+75038 name:"Scatophagus argus" common:""
+75329 name:"Misgurnus anguillicaudatus" common:"oriental weatherfish"
+75352 name:"Megalobrama amblycephala" common:"Wuchang bream"
+75366 name:"Sinocyclocheilus grahami" common:""
+75485 name:"Rissa tridactyla" common:"black-legged kittiwake"
+76717 name:"Lontra canadensis" common:"Northern American river otter"
+77115 name:"Cyprinodon tularosa" common:""
+79684 name:"Microtus ochrogaster" common:"prairie vole"
+80427 name:"Lacerta agilis" common:""
+80966 name:"Acanthochromis polyacanthus" common:"spiny chromis"
+80972 name:"Amphiprion ocellaris" common:"clown anemonefish"
+81572 name:"Hylobates moloch" common:"silvery gibbon"
+81927 name:"Vidua chalybeata" common:""
+84645 name:"Labeo rohita" common:"rohu"
+84834 name:"Molothrus ater" common:""
+85066 name:"Corvus brachyrhynchos" common:"American crow"
+87175 name:"Camarhynchus parvulus" common:""
+88082 name:"Crotalus tigris" common:"Tiger rattlesnake"
+89248 name:"Equus quagga" common:""
+89399 name:"Rhinolophus sinicus" common:"Chinese rufous horseshoe bat"
+89462 name:"Bubalus bubalis" common:"water buffalo"
+89673 name:"Phyllostomus discolor" common:"pale spear-nosed bat"
+90247 name:"Lagenorhynchus obliquidens" common:"Pacific white-sided dolphin"
+90988 name:"Pimephales promelas" common:"fathead minnow"
+91951 name:"Catharus ustulatus" common:"Swainson's thrush"
+93162 name:"Marmota flaviventris" common:"yellow-bellied marmot"
+93934 name:"Coturnix japonica" common:"Japanese quail"
+94827 name:"Tinamus guttatus" common:"white-throated tinamou"
+94835 name:"Gavialis gangeticus" common:"Gharial"
+94885 name:"Pantherophis guttatus" common:""
+95912 name:"Hyaena hyaena" common:"striped hyena"
+97097 name:"Phaethon lepturus" common:"White-tailed tropicbird"
+99487 name:"Elephas maximus indicus" common:""
+100784 name:"Balearica regulorum gibbericeps" common:"East African grey crowned-crane"
+100897 name:"Microtus fortis" common:"reed vole"
+101364 name:"Carassius gibelio" common:"silver crucian carp"
+103695 name:"Pogona vitticeps" common:"central bearded dragon"
+103944 name:"Protobothrops mucrosquamatus" common:""
+105023 name:"Nothobranchius furzeri" common:"turquoise killifish"
+105255 name:"Dipodomys spectabilis" common:"banner-tailed kangaroo rat"
+106582 name:"Maylandia zebra" common:"zebra mbuna"
+106734 name:"Chelonoidis abingdonii" common:"Abingdon island giant tortoise"
+109042 name:"Tympanuchus pallidicinctus" common:"lesser prairie-chicken"
+109280 name:"Hippocampus comes" common:"tiger tail seahorse"
+109293 name:"Hippocampus zosterae" common:"dwarf seahorse"
+109475 name:"Suncus etruscus" common:"white-toothed pygmy shrew"
+109478 name:"Myotis brandtii" common:"Brandt's bat"
+109678 name:"Phodopus roborovskii" common:"desert hamster"
+109905 name:"Chelmon rostratus" common:"copperband butterflyfish"
+111838 name:"Microtus oregoni" common:"creeping vole"
+113540 name:"Scleropages formosus" common:"Asian bonytongue"
+114329 name:"Neopelma chrysocephalum" common:"saffron-crested tyrant-manakin"
+118141 name:"Megalops cyprinoides" common:"Indo-Pacific tarpon"
+118200 name:"Dryobates pubescens" common:"Downy woodpecker"
+118797 name:"Lipotes vexillifer" common:"Yangtze River dolphin"
+119488 name:"Siniperca chuatsi" common:"mandarin fish"
+120794 name:"Falco rusticolus" common:"gyrfalcon"
+121530 name:"Tauraco erythrolophus" common:"red-crested turaco"
+125878 name:"Nanorana parkeri" common:""
+127582 name:"Trichechus manatus latirostris" common:"Florida manatee"
+128390 name:"Nipponia nippon" common:"crested ibis"
+130825 name:"Ochotona curzoniae" common:"black-lipped pika"
+132908 name:"Pteropus vampyrus" common:"large flying fox"
+134902 name:"Corvus hawaiiensis" common:"hawaiian crow"
+134920 name:"Pungitius pungitius" common:"ninespine stickleback"
+137520 name:"Hypomesus transpacificus" common:""
+143291 name:"Pteropus giganteus" common:"Indian flying fox"
+143292 name:"Manis pentadactyla" common:"Chinese pangolin"
+143302 name:"Condylura cristata" common:"star-nosed mole"
+144197 name:"Stegastes partitus" common:"bicolor damselfish"
+146911 name:"Gekko japonicus" common:""
+147949 name:"Micropterus dolomieu" common:"smallmouth bass"
+148594 name:"Falco naumanni" common:"lesser kestrel"
+150288 name:"Boleophthalmus pectinirostris" common:"great blue-spotted mudskipper"
+154827 name:"Xyrauchen texanus" common:"razorback sucker"
+156563 name:"Cyanistes caeruleus" common:"blue tit"
+158456 name:"Betta splendens" common:"Siamese fighting fish"
+160734 name:"Plectropomus leopardus" common:"leopard coralgrouper"
+161453 name:"Dunckerocampus dactyliophorus" common:"ringed pipefish"
+161584 name:"Syngnathus acus" common:"greater pipefish"
+161590 name:"Syngnathus scovelli" common:"Gulf pipefish"
+164674 name:"Empidonax traillii" common:"willow flycatcher"
+173247 name:"Echeneis naucrates" common:"live sharksucker"
+175797 name:"Silurus meridionalis" common:""
+175836 name:"Buceros rhinoceros silvestris" common:""
+176057 name:"Nestor notabilis" common:"Kea"
+176946 name:"Python bivittatus" common:"Burmese python"
+181119 name:"Pseudopodoces humilis" common:"Tibetan ground-tit"
+181472 name:"Salarias fasciatus" common:"jewelled blenny"
+185453 name:"Chrysochloris asiatica" common:"Cape golden mole"
+186990 name:"Hipposideros armiger" common:"great roundleaf bat"
+187382 name:"Chlamydotis macqueenii" common:"Macqueen's bustard"
+187451 name:"Vidua macroura" common:"Pin-tailed whydah"
+188132 name:"Poeciliopsis prolifica" common:"blackstripe livebearer"
+188344 name:"Leptosomus discolor" common:"cuckoo roller"
+188379 name:"Egretta garzetta" common:"little egret"
+191870 name:"Gracilinanus agilis" common:"Agile Gracile Mouse Opossum"
+192404 name:"Sturnira hondurensis" common:""
+194338 name:"Athene cunicularia" common:"burrowing owl"
+194408 name:"Rhinatrema bivittatum" common:"two-lined caecilian"
+195615 name:"Hippoglossus stenolepis" common:"Pacific halibut"
+198806 name:"Calidris pugnax" common:"ruff"
+202280 name:"Harpia harpyja" common:"Harpy eagle"
+202946 name:"Apteryx mantelli mantelli" common:""
+205130 name:"Mastacembelus armatus" common:"zig-zag eel"
+208333 name:"Girardinichthys multiradiatus" common:""
+210632 name:"Parambassis ranga" common:"Indian glassy fish"
+214514 name:"Perognathus longimembris pacificus" common:"Pacific pocket mouse"
+215358 name:"Larimichthys crocea" common:"large yellow croaker"
+219594 name:"Aythya fuligula" common:"tufted duck"
+221976 name:"Pyrgilauda ruficollis" common:"rufous-necked snowfinch"
+223781 name:"Aquila chrysaetos chrysaetos" common:""
+225400 name:"Myotis davidii" common:""
+229290 name:"Anoplopoma fimbria" common:"sablefish"
+230844 name:"Peromyscus maniculatus bairdii" common:"prairie deer mouse"
+233779 name:"Spea bombifrons" common:"plains spadefoot toad"
+240206 name:"Pterocles gutturalis" common:"yellow-throated sandgrouse"
+241271 name:"Cheilinus undulatus" common:"humphead wrasse"
+244447 name:"Cynoglossus semilaevis" common:"tongue sole"
+246437 name:"Tupaia chinensis" common:"Chinese tree shrew"
+257877 name:"Macaca thibetana thibetana" common:""
+259920 name:"Rhincodon typus" common:"whale shark"
+260615 name:"Mauremys reevesii" common:"Reeves's turtle"
+260995 name:"Geotrypetes seraphini" common:""
+270530 name:"Synchiropus splendidus" common:"mandarinfish"
+278164 name:"Alosa alosa" common:"allis shad"
+279965 name:"Antrostomus carolinensis" common:"chuck-will's-widow"
+283035 name:"Sander lucioperca" common:"pikeperch"
+286002 name:"Gopherus flavomarginatus" common:"Mexican gopher tortoise"
+286419 name:"Canis lupus dingo" common:"dingo"
+291302 name:"Miniopterus natalensis" common:""
+293821 name:"Epinephelus fuscoguttatus" common:"brown-marbled grouper"
+296741 name:"Chiroxiphia lanceolata" common:"lance-tailed manakin"
+299123 name:"Lonchura striata domestica" common:"Bengalese finch"
+299321 name:"Denticeps clupeoides" common:"denticle herring"
+300413 name:"Epinephelus moara" common:"kelp grouper"
+303518 name:"Pundamilia nyererei" common:""
+307959 name:"Sinocyclocheilus rhinocerous" common:""
+308060 name:"Apteryx rowi" common:"Okarito brown kiwi"
+310571 name:"Epinephelus lanceolatus" common:"giant grouper"
+310752 name:"Balaenoptera acutorostrata scammoni" common:""
+310915 name:"Pangasianodon hypophthalmus" common:"striped catfish"
+321398 name:"Lepidothrix coronata" common:"blue-crowned manakin"
+328815 name:"Manacus vitellinus" common:"golden-collared manakin"
+336983 name:"Colobus angolensis palliatus" common:""
+345164 name:"Falco cherrug" common:"Saker falcon"
+356909 name:"Onychostruthus taczanowskii" common:"white-rumped snowfinch"
+375764 name:"Sphaeramia orbicularis" common:"orbiculate cardinalfish"
+378071 name:"Stegostoma fasciatum" common:""
+379532 name:"Propithecus coquereli" common:"Coquerel's sifaka"
+386614 name:"Amblyraja radiata" common:"thorny skate"
+390379 name:"Thalassophryne amazonica" common:""
+391180 name:"Enhydra lutris kenyoni" common:""
+409849 name:"Periophthalmus magnuspinnatus" common:""
+415023 name:"Manacus candei" common:"White-collared manakin"
+415028 name:"Corapipo altera" common:"White-ruffed manakin"
+417921 name:"Etheostoma cragini" common:"Arkansas darter"
+419612 name:"Camelus ferus" common:"Wild Bactrian camel"
+433405 name:"Anarrhichthys ocellatus" common:"wolf-eel"
+441366 name:"Gouania willdenowi" common:"blunt-snouted clingfish"
+441894 name:"Struthio camelus australis" common:""
+447135 name:"Myodes glareolus" common:"Bank vole"
+451745 name:"Nematolebias whitei" common:"Rio pearlfish"
+452646 name:"Neogale vison" common:"American mink"
+478635 name:"Myiozetetes cayanensis" common:""
+481883 name:"Eublepharis macularius" common:""
+482537 name:"Galeopterus variegatus" common:"Sunda flying lemur"
+491861 name:"Grammomys surdaster" common:""
+494514 name:"Vulpes lagopus" common:"Arctic fox"
+564181 name:"Peromyscus californicus insignis" common:""
+586833 name:"Myripristis murdjan" common:"pinecone soldierfish"
+591936 name:"Piliocolobus tephrosceles" common:"Ugandan red Colobus"
+649802 name:"Pipra filicauda" common:"Wire-tailed manakin"
+685728 name:"Pristis pectinata" common:"smalltooth sawfish"
+884348 name:"Hemicordylus capensis" common:"graceful crag lizard"
+885580 name:"Fukomys damarensis" common:"Damara mole-rat"
+932674 name:"Corvus cornix cornix" common:""
+933632 name:"Sphaerodactylus townsendi" common:""
+941984 name:"Toxotes jaculatrix" common:"banded archerfish"
+1002788 name:"Indicator indicator" common:""
+1026970 name:"Nannospalax galili" common:"Upper Galilee mountains blind mole rat"
+1047088 name:"Arvicola amphibius" common:"Eurasian water vole"
+1094192 name:"Motacilla alba alba" common:""
+1196302 name:"Corvus moneduloides" common:"New Caledonian crow"
+1203425 name:"Notolabrus celidotus" common:"New Zealand spotty"
+1230840 name:"Orycteropus afer afer" common:""
+1234273 name:"Tachysurus fulvidraco" common:"yellow catfish"
+1250792 name:"Melanotaenia boesemani" common:"Boeseman's rainbowfish"
+1415580 name:"Microcaecilia unicolor" common:""
+1574408 name:"Cervus canadensis" common:""
+1606681 name:"Puntigrus tetrazona" common:"Sumatra barb"
+1608454 name:"Sinocyclocheilus anshuiensis" common:""
+1608482 name:"Puma yagouaroundi" common:"jaguarundi"
+1676925 name:"Paramormyrops kingsleyae" common:""
+1706337 name:"Neophocaena asiaeorientalis asiaeorientalis" common:"Yangtze finless porpoise"
+1825980 name:"Gopherus evgoodei" common:"Goodes thornscrub tortoise"
+1841481 name:"Seriola lalandi dorsalis" common:""
+1868482 name:"Carlito syrichta" common:"Philippine tarsier"
+1884717 name:"Pteronotus parnellii mesoamericanus" common:""
+2489341 name:"Strigops habroptila" common:"Kakapo"
+2587831 name:"Terrapene carolina triunguis" common:"Three-toed box turtle"
+2715852 name:"Cebus imitator" common:"Panamanian white-faced capuchin"
+2991368 name:"Malaclemys terrapin pileata" common:""
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10090 -> 10090 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+10116 -> 10116 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+7955 -> 7955 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9031 -> 9031 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9606 -> 9606 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9615 -> 9615 :hasOrthologs
+9685 -> 9685 :hasOrthologs
+9685 -> 9685 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9823 -> 9823 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
+9913 -> 9913 :hasOrthologs
