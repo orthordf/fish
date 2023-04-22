@@ -4,11 +4,24 @@ use File::Basename;
 use Getopt::Std;
 my $PROGRAM = basename $0;
 my $USAGE=
-"Usage: $PROGRAM
+"Usage: $PROGRAM [-c count_genes]
 ";
 
 my %OPT;
-getopts('', \%OPT);
+getopts('c:', \%OPT);
+
+my %N_GENES = ();
+if ($OPT{c}) {
+    open(COUNT, "$OPT{c}") || die "$!";
+    while (<COUNT>) {
+        chomp;
+        my @f = split(/\t/, $_);
+        my $tax = $f[0];
+        my $count = $f[1];
+        $N_GENES{$tax} = $count;
+    }
+    close(COUNT);
+}
 
 open(TAXID, "taxid.tsv") || die "$!";
 while (<TAXID>) {
@@ -23,7 +36,14 @@ while (<TAXID>) {
     if ($common eq "") {
         $common = '""';
     }
-    print "$taxid name:$name common:$common\n";
+    print "$taxid name:$name common:$common";
+    if ($N_GENES{$taxid}) {
+        my $count = $N_GENES{$taxid};
+        my $size = log($count)/log(2);
+        $size = sprintf("%.2f", $size);
+        print " size:$size";
+    }
+    print "\n";
 }
 close(TAXID);
 
