@@ -41,6 +41,6 @@ for my $tax1 (keys %COUNT) {
         my $count = $COUNT{$tax1}{$tax2};
         my $size = log($count)/log(2);
         $size = sprintf("%.2f", $size/2+1);
-        print "$tax1 -> $tax2 width:$size\n";
+        print "$tax1 -> $tax2 width:$size count:$count\n";
     }
 }
