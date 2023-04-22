@@ -15,7 +15,9 @@ my %FISH = (
     7955 => 1,
     8128 => 1,
     31033 => 1,
-    8090 => 1,    
+    8090 => 1,
+    9606 => 1,
+    # 9031 => 1,
     );
 
 my %COUNT = ();
@@ -27,7 +29,7 @@ while (<>) {
     }
     my $tax1 = $f[0];
     my $tax2 = $f[3];
-    if ($FISH{$tax1} || $FISH{$tax2}) {
+    if ($FISH{$tax1} && $FISH{$tax2}) {
         if ($COUNT{$tax1}{$tax2}) {
             $COUNT{$tax1}{$tax2}++;
         } else {
