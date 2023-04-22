@@ -4,11 +4,17 @@ use File::Basename;
 use Getopt::Std;
 my $PROGRAM = basename $0;
 my $USAGE=
-"Usage: $PROGRAM [-c count_genes]
+"Usage: $PROGRAM [-c count_genes] taxid.tsv
 ";
 
 my %OPT;
 getopts('c:', \%OPT);
+
+if (!@ARGV) {
+    print STDERR $USAGE;
+    exit 1;
+}
+my ($TAXID) = @ARGV;
 
 my %N_GENES = ();
 if ($OPT{c}) {
@@ -36,7 +42,7 @@ while (<TAXIDS>) {
 }
 close(TAXIDS);
 
-open(TAXID, "taxid.tsv") || die "$!";
+open(TAXID, "$TAXID") || die "$!";
 while (<TAXID>) {
     chomp;
     my @f = split(/\t/, $_, -1);
