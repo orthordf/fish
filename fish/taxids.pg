@@ -1,169 +1,169 @@
-7830 name:"Scyliorhinus canicula" common:"smaller spotted catshark" size:13.27
-7868 name:"Callorhinchus milii" common:"elephant shark" size:13.20
-7897 name:"Latimeria chalumnae" common:"coelacanth" size:13.35
-7906 name:"Acipenser ruthenus" common:"sterlet" size:12.04
-7913 name:"Polyodon spathula" common:"Mississippi paddlefish" size:12.78
-7918 name:"Lepisosteus oculatus" common:"spotted gar" size:13.65
-7936 name:"Anguilla anguilla" common:"European eel" size:13.77
-7950 name:"Clupea harengus" common:"Atlantic herring" size:14.00
-7955 name:"Danio rerio" common:"zebrafish" size:14.40
-7957 name:"Carassius auratus" common:"goldfish" size:13.54
-7959 name:"Ctenopharyngodon idella" common:"grass carp" size:14.23
-7962 name:"Cyprinus carpio" common:"common carp" size:13.31
-7994 name:"Astyanax mexicanus" common:"Mexican tetra" size:14.19
-7998 name:"Ictalurus punctatus" common:"channel catfish" size:14.11
-8005 name:"Electrophorus electricus" common:"electric eel" size:14.15
-8010 name:"Esox lucius" common:"northern pike" size:14.01
-8017 name:"Oncorhynchus gorbuscha" common:"pink salmon" size:13.11
-8018 name:"Oncorhynchus keta" common:"chum salmon" size:13.18
-8019 name:"Oncorhynchus kisutch" common:"coho salmon" size:13.20
-8022 name:"Oncorhynchus mykiss" common:"rainbow trout" size:13.05
-8023 name:"Oncorhynchus nerka" common:"sockeye salmon" size:13.12
-8030 name:"Salmo salar" common:"Atlantic salmon" size:12.98
-8032 name:"Salmo trutta" common:"river trout" size:13.15
-8036 name:"Salvelinus alpinus" common:"Arctic char" size:13.16
-8040 name:"Salvelinus namaycush" common:"lake trout" size:13.00
-8049 name:"Gadus morhua" common:"Atlantic cod" size:13.82
-8078 name:"Fundulus heteroclitus" common:"mummichog" size:13.83
-8081 name:"Poecilia reticulata" common:"guppy" size:13.86
-8083 name:"Xiphophorus maculatus" common:"southern platyfish" size:13.89
-8084 name:"Xiphophorus hellerii" common:"green swordtail" size:13.87
-8090 name:"Oryzias latipes" common:"Japanese medaka" size:13.85
-8103 name:"Cyclopterus lumpus" common:"lumpfish" size:13.89
-8128 name:"Oreochromis niloticus" common:"Nile tilapia" size:13.90
-8153 name:"Haplochromis burtoni" common:"Burton's mouthbrooder" size:13.88
-8154 name:"Astatotilapia calliptera" common:"eastern happy" size:13.88
-8167 name:"Perca flavescens" common:"yellow perch" size:13.90
-8168 name:"Perca fluviatilis" common:"European perch" size:13.93
-8175 name:"Sparus aurata" common:"gilthead seabream" size:13.90
-8177 name:"Acanthopagrus latus" common:"yellowfin seabream" size:13.96
-8187 name:"Lates calcarifer" common:"barramundi perch" size:13.92
-8208 name:"Notothenia coriiceps" common:"black rockcod" size:13.35
-8218 name:"Gymnodraco acuticeps" common:"" size:13.79
-8236 name:"Thunnus albacares" common:"yellowfin tuna" size:13.96
-8240 name:"Thunnus maccoyii" common:"southern bluefin tuna" size:13.96
-8245 name:"Xiphias gladius" common:"swordfish" size:13.95
-8255 name:"Paralichthys olivaceus" common:"Japanese flounder" size:13.79
-8262 name:"Pleuronectes platessa" common:"European plaice" size:13.89
-8267 name:"Hippoglossus hippoglossus" common:"Atlantic halibut" size:13.92
-9031 name:"Gallus gallus" common:"chicken" size:13.71
-9606 name:"Homo sapiens" common:"human" size:14.26
-10090 name:"Mus musculus" common:"house mouse" size:14.04
-13013 name:"Clarias gariepinus" common:"North African catfish" size:14.10
-13397 name:"Carcharodon carcharias" common:"great white shark" size:13.33
-13489 name:"Dicentrarchus labrax" common:"European seabass" size:13.97
-13676 name:"Scomber japonicus" common:"chub mackerel" size:13.91
-27687 name:"Erpetoichthys calabaricus" common:"reedfish" size:13.65
-27706 name:"Micropterus salmoides" common:"largemouth bass" size:13.88
-28743 name:"Cyprinodon variegatus" common:"sheepshead minnow" size:13.79
-28829 name:"Solea senegalensis" common:"Senegalese sole" size:13.86
-29144 name:"Chanos chanos" common:"milkfish" size:14.11
-30732 name:"Oryzias melastigma" common:"Indian medaka" size:13.87
-31033 name:"Takifugu rubripes" common:"torafugu" size:13.78
-32473 name:"Xiphophorus couchianus" common:"Monterrey platyfish" size:13.89
-32507 name:"Neolamprologus brichardi" common:"" size:13.87
-33528 name:"Gambusia affinis" common:"western mosquitofish" size:13.91
-34773 name:"Alosa sapidissima" common:"American shad" size:14.06
-34816 name:"Morone saxatilis" common:"striped sea-bass" size:13.87
-36176 name:"Chiloscyllium plagiosum" common:"whitespotted bambooshark" size:13.26
-37003 name:"Kryptolebias marmoratus" common:"mangrove rivulus" size:13.91
-40690 name:"Trematomus bernacchii" common:"emerald rockcod" size:13.88
-41447 name:"Seriola dumerili" common:"greater amberjack" size:13.92
-42514 name:"Pygocentrus nattereri" common:"red-bellied piranha" size:14.20
-42526 name:"Colossoma macropomum" common:"tambaqui" size:14.19
-42636 name:"Brienomyrus brachyistius" common:"" size:13.73
-43689 name:"Simochromis diagramma" common:"" size:13.90
-43700 name:"Monopterus albus" common:"swamp eel" size:13.84
-47969 name:"Oreochromis aureus" common:"" size:13.92
-48193 name:"Mugil cephalus" common:"flathead mullet" size:13.92
-48698 name:"Poecilia formosa" common:"Amazon molly" size:13.79
-48699 name:"Poecilia latipinna" common:"sailfin molly" size:13.75
-48701 name:"Poecilia mexicana" common:"" size:13.75
-52239 name:"Pseudochaenichthys georgianus" common:"South Georgia icefish" size:13.80
-52670 name:"Austrofundulus limnaeus" common:"" size:13.74
-52904 name:"Scophthalmus maximus" common:"turbot" size:13.94
-54343 name:"Etheostoma spectabile" common:"orangethroat darter" size:13.80
-55291 name:"Polypterus senegalus" common:"gray bichir" size:13.60
-56716 name:"Cottoperca gobio" common:"" size:13.82
-56723 name:"Labrus bergylta" common:"ballan wrasse" size:13.81
-59861 name:"Coregonus clupeaformis" common:"lake whitefish" size:12.96
-63155 name:"Archocentrus centrarchus" common:"flier cichlid" size:13.88
-64144 name:"Anabas testudineus" common:"climbing perch" size:13.94
-66913 name:"Ictalurus furcatus" common:"blue catfish" size:14.08
-69293 name:"Gasterosteus aculeatus" common:"three-spined stickleback" size:13.86
-70543 name:"Myxocyprinus asiaticus" common:"Chinese sucker" size:13.31
-72105 name:"Sebastes umbrosus" common:"honeycomb rockfish" size:13.93
-74940 name:"Oncorhynchus tshawytscha" common:"Chinook salmon" size:13.17
-75038 name:"Scatophagus argus" common:"" size:13.96
-75329 name:"Misgurnus anguillicaudatus" common:"oriental weatherfish" size:14.19
-75352 name:"Megalobrama amblycephala" common:"Wuchang bream" size:14.26
-75366 name:"Sinocyclocheilus grahami" common:"" size:13.56
-77115 name:"Cyprinodon tularosa" common:"" size:13.87
-80966 name:"Acanthochromis polyacanthus" common:"spiny chromis" size:13.91
-80972 name:"Amphiprion ocellaris" common:"clown anemonefish" size:13.94
-84645 name:"Labeo rohita" common:"rohu" size:14.27
-90988 name:"Pimephales promelas" common:"fathead minnow" size:14.21
-101364 name:"Carassius gibelio" common:"silver crucian carp" size:13.65
-105023 name:"Nothobranchius furzeri" common:"turquoise killifish" size:13.81
-106582 name:"Maylandia zebra" common:"zebra mbuna" size:13.88
-109280 name:"Hippocampus comes" common:"tiger tail seahorse" size:13.75
-109293 name:"Hippocampus zosterae" common:"dwarf seahorse" size:13.77
-109905 name:"Chelmon rostratus" common:"copperband butterflyfish" size:13.94
-113540 name:"Scleropages formosus" common:"Asian bonytongue" size:13.74
-118141 name:"Megalops cyprinoides" common:"Indo-Pacific tarpon" size:13.77
-119488 name:"Siniperca chuatsi" common:"mandarin fish" size:13.95
-134920 name:"Pungitius pungitius" common:"ninespine stickleback" size:13.91
-137520 name:"Hypomesus transpacificus" common:"" size:13.86
-144197 name:"Stegastes partitus" common:"bicolor damselfish" size:13.82
-147949 name:"Micropterus dolomieu" common:"smallmouth bass" size:13.90
-150288 name:"Boleophthalmus pectinirostris" common:"great blue-spotted mudskipper" size:13.81
-154827 name:"Xyrauchen texanus" common:"razorback sucker" size:13.59
-158456 name:"Betta splendens" common:"Siamese fighting fish" size:13.91
-160734 name:"Plectropomus leopardus" common:"leopard coralgrouper" size:13.83
-161453 name:"Dunckerocampus dactyliophorus" common:"ringed pipefish" size:13.83
-161584 name:"Syngnathus acus" common:"greater pipefish" size:13.78
-161590 name:"Syngnathus scovelli" common:"Gulf pipefish" size:13.78
-173247 name:"Echeneis naucrates" common:"live sharksucker" size:13.89
-175797 name:"Silurus meridionalis" common:"" size:14.09
-181472 name:"Salarias fasciatus" common:"jewelled blenny" size:13.79
-188132 name:"Poeciliopsis prolifica" common:"blackstripe livebearer" size:13.79
-195615 name:"Hippoglossus stenolepis" common:"Pacific halibut" size:13.93
-205130 name:"Mastacembelus armatus" common:"zig-zag eel" size:13.91
-208333 name:"Girardinichthys multiradiatus" common:"" size:13.84
-210632 name:"Parambassis ranga" common:"Indian glassy fish" size:13.89
-215358 name:"Larimichthys crocea" common:"large yellow croaker" size:13.92
-229290 name:"Anoplopoma fimbria" common:"sablefish" size:13.91
-241271 name:"Cheilinus undulatus" common:"humphead wrasse" size:13.91
-244447 name:"Cynoglossus semilaevis" common:"tongue sole" size:13.79
-259920 name:"Rhincodon typus" common:"whale shark" size:13.13
-270530 name:"Synchiropus splendidus" common:"mandarinfish" size:13.80
-278164 name:"Alosa alosa" common:"allis shad" size:13.98
-283035 name:"Sander lucioperca" common:"pikeperch" size:13.95
-293821 name:"Epinephelus fuscoguttatus" common:"brown-marbled grouper" size:13.96
-299321 name:"Denticeps clupeoides" common:"denticle herring" size:13.96
-300413 name:"Epinephelus moara" common:"kelp grouper" size:13.94
-303518 name:"Pundamilia nyererei" common:"" size:13.87
-307959 name:"Sinocyclocheilus rhinocerous" common:"" size:13.52
-310571 name:"Epinephelus lanceolatus" common:"giant grouper" size:13.94
-310915 name:"Pangasianodon hypophthalmus" common:"striped catfish" size:14.12
-375764 name:"Sphaeramia orbicularis" common:"orbiculate cardinalfish" size:13.86
-378071 name:"Stegostoma fasciatum" common:"" size:13.32
-390379 name:"Thalassophryne amazonica" common:"" size:13.80
-409849 name:"Periophthalmus magnuspinnatus" common:"" size:13.86
-417921 name:"Etheostoma cragini" common:"Arkansas darter" size:13.89
-433405 name:"Anarrhichthys ocellatus" common:"wolf-eel" size:13.83
-441366 name:"Gouania willdenowi" common:"blunt-snouted clingfish" size:13.79
-451745 name:"Nematolebias whitei" common:"Rio pearlfish" size:13.79
-586833 name:"Myripristis murdjan" common:"pinecone soldierfish" size:13.94
-685728 name:"Pristis pectinata" common:"smalltooth sawfish" size:13.28
-941984 name:"Toxotes jaculatrix" common:"banded archerfish" size:13.96
-1203425 name:"Notolabrus celidotus" common:"New Zealand spotty" size:13.87
-1234273 name:"Tachysurus fulvidraco" common:"yellow catfish" size:14.09
-1250792 name:"Melanotaenia boesemani" common:"Boeseman's rainbowfish" size:13.93
-1606681 name:"Puntigrus tetrazona" common:"Sumatra barb" size:14.23
-1608454 name:"Sinocyclocheilus anshuiensis" common:"" size:13.54
-1676925 name:"Paramormyrops kingsleyae" common:"" size:13.71
-1841481 name:"Seriola lalandi dorsalis" common:"" size:13.90
+7830 name:"Scyliorhinus canicula" common:"smaller spotted catshark" size:13.27 count:9864
+7868 name:"Callorhinchus milii" common:"elephant shark" size:13.20 count:9393
+7897 name:"Latimeria chalumnae" common:"coelacanth" size:13.35 count:10417
+7906 name:"Acipenser ruthenus" common:"sterlet" size:12.04 count:4209
+7913 name:"Polyodon spathula" common:"Mississippi paddlefish" size:12.78 count:7044
+7918 name:"Lepisosteus oculatus" common:"spotted gar" size:13.65 count:12885
+7936 name:"Anguilla anguilla" common:"European eel" size:13.77 count:14014
+7950 name:"Clupea harengus" common:"Atlantic herring" size:14.00 count:16422
+7955 name:"Danio rerio" common:"zebrafish" size:14.40 count:21561
+7957 name:"Carassius auratus" common:"goldfish" size:13.54 count:11904
+7959 name:"Ctenopharyngodon idella" common:"grass carp" size:14.23 count:19168
+7962 name:"Cyprinus carpio" common:"common carp" size:13.31 count:10189
+7994 name:"Astyanax mexicanus" common:"Mexican tetra" size:14.19 count:18687
+7998 name:"Ictalurus punctatus" common:"channel catfish" size:14.11 count:17667
+8005 name:"Electrophorus electricus" common:"electric eel" size:14.15 count:18183
+8010 name:"Esox lucius" common:"northern pike" size:14.01 count:16489
+8017 name:"Oncorhynchus gorbuscha" common:"pink salmon" size:13.11 count:8860
+8018 name:"Oncorhynchus keta" common:"chum salmon" size:13.18 count:9249
+8019 name:"Oncorhynchus kisutch" common:"coho salmon" size:13.20 count:9382
+8022 name:"Oncorhynchus mykiss" common:"rainbow trout" size:13.05 count:8506
+8023 name:"Oncorhynchus nerka" common:"sockeye salmon" size:13.12 count:8932
+8030 name:"Salmo salar" common:"Atlantic salmon" size:12.98 count:8063
+8032 name:"Salmo trutta" common:"river trout" size:13.15 count:9062
+8036 name:"Salvelinus alpinus" common:"Arctic char" size:13.16 count:9180
+8040 name:"Salvelinus namaycush" common:"lake trout" size:13.00 count:8190
+8049 name:"Gadus morhua" common:"Atlantic cod" size:13.82 count:14454
+8078 name:"Fundulus heteroclitus" common:"mummichog" size:13.83 count:14597
+8081 name:"Poecilia reticulata" common:"guppy" size:13.86 count:14860
+8083 name:"Xiphophorus maculatus" common:"southern platyfish" size:13.89 count:15168
+8084 name:"Xiphophorus hellerii" common:"green swordtail" size:13.87 count:14926
+8090 name:"Oryzias latipes" common:"Japanese medaka" size:13.85 count:14718
+8103 name:"Cyclopterus lumpus" common:"lumpfish" size:13.89 count:15172
+8128 name:"Oreochromis niloticus" common:"Nile tilapia" size:13.90 count:15319
+8153 name:"Haplochromis burtoni" common:"Burton's mouthbrooder" size:13.88 count:15105
+8154 name:"Astatotilapia calliptera" common:"eastern happy" size:13.88 count:15079
+8167 name:"Perca flavescens" common:"yellow perch" size:13.90 count:15328
+8168 name:"Perca fluviatilis" common:"European perch" size:13.93 count:15615
+8175 name:"Sparus aurata" common:"gilthead seabream" size:13.90 count:15322
+8177 name:"Acanthopagrus latus" common:"yellowfin seabream" size:13.96 count:15930
+8187 name:"Lates calcarifer" common:"barramundi perch" size:13.92 count:15471
+8208 name:"Notothenia coriiceps" common:"black rockcod" size:13.35 count:10467
+8218 name:"Gymnodraco acuticeps" common:"" size:13.79 count:14156
+8236 name:"Thunnus albacares" common:"yellowfin tuna" size:13.96 count:15948
+8240 name:"Thunnus maccoyii" common:"southern bluefin tuna" size:13.96 count:15886
+8245 name:"Xiphias gladius" common:"swordfish" size:13.95 count:15850
+8255 name:"Paralichthys olivaceus" common:"Japanese flounder" size:13.79 count:14193
+8262 name:"Pleuronectes platessa" common:"European plaice" size:13.89 count:15222
+8267 name:"Hippoglossus hippoglossus" common:"Atlantic halibut" size:13.92 count:15539
+9031 name:"Gallus gallus" common:"chicken" size:13.71 count:13397
+9606 name:"Homo sapiens" common:"human" size:14.26 count:19581
+10090 name:"Mus musculus" common:"house mouse" size:14.04 count:16798
+13013 name:"Clarias gariepinus" common:"North African catfish" size:14.10 count:17575
+13397 name:"Carcharodon carcharias" common:"great white shark" size:13.33 count:10305
+13489 name:"Dicentrarchus labrax" common:"European seabass" size:13.97 count:16051
+13676 name:"Scomber japonicus" common:"chub mackerel" size:13.91 count:15363
+27687 name:"Erpetoichthys calabaricus" common:"reedfish" size:13.65 count:12819
+27706 name:"Micropterus salmoides" common:"largemouth bass" size:13.88 count:15057
+28743 name:"Cyprinodon variegatus" common:"sheepshead minnow" size:13.79 count:14141
+28829 name:"Solea senegalensis" common:"Senegalese sole" size:13.86 count:14873
+29144 name:"Chanos chanos" common:"milkfish" size:14.11 count:17621
+30732 name:"Oryzias melastigma" common:"Indian medaka" size:13.87 count:14976
+31033 name:"Takifugu rubripes" common:"torafugu" size:13.78 count:14101
+32473 name:"Xiphophorus couchianus" common:"Monterrey platyfish" size:13.89 count:15162
+32507 name:"Neolamprologus brichardi" common:"" size:13.87 count:15012
+33528 name:"Gambusia affinis" common:"western mosquitofish" size:13.91 count:15340
+34773 name:"Alosa sapidissima" common:"American shad" size:14.06 count:17109
+34816 name:"Morone saxatilis" common:"striped sea-bass" size:13.87 count:14977
+36176 name:"Chiloscyllium plagiosum" common:"whitespotted bambooshark" size:13.26 count:9835
+37003 name:"Kryptolebias marmoratus" common:"mangrove rivulus" size:13.91 count:15366
+40690 name:"Trematomus bernacchii" common:"emerald rockcod" size:13.88 count:15066
+41447 name:"Seriola dumerili" common:"greater amberjack" size:13.92 count:15494
+42514 name:"Pygocentrus nattereri" common:"red-bellied piranha" size:14.20 count:18836
+42526 name:"Colossoma macropomum" common:"tambaqui" size:14.19 count:18743
+42636 name:"Brienomyrus brachyistius" common:"" size:13.73 count:13574
+43689 name:"Simochromis diagramma" common:"" size:13.90 count:15310
+43700 name:"Monopterus albus" common:"swamp eel" size:13.84 count:14701
+47969 name:"Oreochromis aureus" common:"" size:13.92 count:15506
+48193 name:"Mugil cephalus" common:"flathead mullet" size:13.92 count:15537
+48698 name:"Poecilia formosa" common:"Amazon molly" size:13.79 count:14117
+48699 name:"Poecilia latipinna" common:"sailfin molly" size:13.75 count:13750
+48701 name:"Poecilia mexicana" common:"" size:13.75 count:13798
+52239 name:"Pseudochaenichthys georgianus" common:"South Georgia icefish" size:13.80 count:14261
+52670 name:"Austrofundulus limnaeus" common:"" size:13.74 count:13729
+52904 name:"Scophthalmus maximus" common:"turbot" size:13.94 count:15705
+54343 name:"Etheostoma spectabile" common:"orangethroat darter" size:13.80 count:14276
+55291 name:"Polypterus senegalus" common:"gray bichir" size:13.60 count:12406
+56716 name:"Cottoperca gobio" common:"" size:13.82 count:14473
+56723 name:"Labrus bergylta" common:"ballan wrasse" size:13.81 count:14363
+59861 name:"Coregonus clupeaformis" common:"lake whitefish" size:12.96 count:7991
+63155 name:"Archocentrus centrarchus" common:"flier cichlid" size:13.88 count:15051
+64144 name:"Anabas testudineus" common:"climbing perch" size:13.94 count:15707
+66913 name:"Ictalurus furcatus" common:"blue catfish" size:14.08 count:17320
+69293 name:"Gasterosteus aculeatus" common:"three-spined stickleback" size:13.86 count:14915
+70543 name:"Myxocyprinus asiaticus" common:"Chinese sucker" size:13.31 count:10165
+72105 name:"Sebastes umbrosus" common:"honeycomb rockfish" size:13.93 count:15642
+74940 name:"Oncorhynchus tshawytscha" common:"Chinook salmon" size:13.17 count:9229
+75038 name:"Scatophagus argus" common:"" size:13.96 count:15915
+75329 name:"Misgurnus anguillicaudatus" common:"oriental weatherfish" size:14.19 count:18634
+75352 name:"Megalobrama amblycephala" common:"Wuchang bream" size:14.26 count:19671
+75366 name:"Sinocyclocheilus grahami" common:"" size:13.56 count:12118
+77115 name:"Cyprinodon tularosa" common:"" size:13.87 count:14939
+80966 name:"Acanthochromis polyacanthus" common:"spiny chromis" size:13.91 count:15414
+80972 name:"Amphiprion ocellaris" common:"clown anemonefish" size:13.94 count:15676
+84645 name:"Labeo rohita" common:"rohu" size:14.27 count:19793
+90988 name:"Pimephales promelas" common:"fathead minnow" size:14.21 count:19008
+101364 name:"Carassius gibelio" common:"silver crucian carp" size:13.65 count:12880
+105023 name:"Nothobranchius furzeri" common:"turquoise killifish" size:13.81 count:14344
+106582 name:"Maylandia zebra" common:"zebra mbuna" size:13.88 count:15034
+109280 name:"Hippocampus comes" common:"tiger tail seahorse" size:13.75 count:13745
+109293 name:"Hippocampus zosterae" common:"dwarf seahorse" size:13.77 count:13972
+109905 name:"Chelmon rostratus" common:"copperband butterflyfish" size:13.94 count:15760
+113540 name:"Scleropages formosus" common:"Asian bonytongue" size:13.74 count:13676
+118141 name:"Megalops cyprinoides" common:"Indo-Pacific tarpon" size:13.77 count:14014
+119488 name:"Siniperca chuatsi" common:"mandarin fish" size:13.95 count:15843
+134920 name:"Pungitius pungitius" common:"ninespine stickleback" size:13.91 count:15392
+137520 name:"Hypomesus transpacificus" common:"" size:13.86 count:14857
+144197 name:"Stegastes partitus" common:"bicolor damselfish" size:13.82 count:14472
+147949 name:"Micropterus dolomieu" common:"smallmouth bass" size:13.90 count:15337
+150288 name:"Boleophthalmus pectinirostris" common:"great blue-spotted mudskipper" size:13.81 count:14393
+154827 name:"Xyrauchen texanus" common:"razorback sucker" size:13.59 count:12325
+158456 name:"Betta splendens" common:"Siamese fighting fish" size:13.91 count:15360
+160734 name:"Plectropomus leopardus" common:"leopard coralgrouper" size:13.83 count:14538
+161453 name:"Dunckerocampus dactyliophorus" common:"ringed pipefish" size:13.83 count:14552
+161584 name:"Syngnathus acus" common:"greater pipefish" size:13.78 count:14100
+161590 name:"Syngnathus scovelli" common:"Gulf pipefish" size:13.78 count:14069
+173247 name:"Echeneis naucrates" common:"live sharksucker" size:13.89 count:15216
+175797 name:"Silurus meridionalis" common:"" size:14.09 count:17389
+181472 name:"Salarias fasciatus" common:"jewelled blenny" size:13.79 count:14154
+188132 name:"Poeciliopsis prolifica" common:"blackstripe livebearer" size:13.79 count:14192
+195615 name:"Hippoglossus stenolepis" common:"Pacific halibut" size:13.93 count:15651
+205130 name:"Mastacembelus armatus" common:"zig-zag eel" size:13.91 count:15380
+208333 name:"Girardinichthys multiradiatus" common:"" size:13.84 count:14688
+210632 name:"Parambassis ranga" common:"Indian glassy fish" size:13.89 count:15177
+215358 name:"Larimichthys crocea" common:"large yellow croaker" size:13.92 count:15532
+229290 name:"Anoplopoma fimbria" common:"sablefish" size:13.91 count:15415
+241271 name:"Cheilinus undulatus" common:"humphead wrasse" size:13.91 count:15428
+244447 name:"Cynoglossus semilaevis" common:"tongue sole" size:13.79 count:14204
+259920 name:"Rhincodon typus" common:"whale shark" size:13.13 count:8995
+270530 name:"Synchiropus splendidus" common:"mandarinfish" size:13.80 count:14311
+278164 name:"Alosa alosa" common:"allis shad" size:13.98 count:16173
+283035 name:"Sander lucioperca" common:"pikeperch" size:13.95 count:15800
+293821 name:"Epinephelus fuscoguttatus" common:"brown-marbled grouper" size:13.96 count:15884
+299321 name:"Denticeps clupeoides" common:"denticle herring" size:13.96 count:15956
+300413 name:"Epinephelus moara" common:"kelp grouper" size:13.94 count:15708
+303518 name:"Pundamilia nyererei" common:"" size:13.87 count:14984
+307959 name:"Sinocyclocheilus rhinocerous" common:"" size:13.52 count:11708
+310571 name:"Epinephelus lanceolatus" common:"giant grouper" size:13.94 count:15737
+310915 name:"Pangasianodon hypophthalmus" common:"striped catfish" size:14.12 count:17832
+375764 name:"Sphaeramia orbicularis" common:"orbiculate cardinalfish" size:13.86 count:14846
+378071 name:"Stegostoma fasciatum" common:"" size:13.32 count:10241
+390379 name:"Thalassophryne amazonica" common:"" size:13.80 count:14237
+409849 name:"Periophthalmus magnuspinnatus" common:"" size:13.86 count:14876
+417921 name:"Etheostoma cragini" common:"Arkansas darter" size:13.89 count:15186
+433405 name:"Anarrhichthys ocellatus" common:"wolf-eel" size:13.83 count:14547
+441366 name:"Gouania willdenowi" common:"blunt-snouted clingfish" size:13.79 count:14164
+451745 name:"Nematolebias whitei" common:"Rio pearlfish" size:13.79 count:14157
+586833 name:"Myripristis murdjan" common:"pinecone soldierfish" size:13.94 count:15721
+685728 name:"Pristis pectinata" common:"smalltooth sawfish" size:13.28 count:9925
+941984 name:"Toxotes jaculatrix" common:"banded archerfish" size:13.96 count:15991
+1203425 name:"Notolabrus celidotus" common:"New Zealand spotty" size:13.87 count:14936
+1234273 name:"Tachysurus fulvidraco" common:"yellow catfish" size:14.09 count:17498
+1250792 name:"Melanotaenia boesemani" common:"Boeseman's rainbowfish" size:13.93 count:15612
+1606681 name:"Puntigrus tetrazona" common:"Sumatra barb" size:14.23 count:19255
+1608454 name:"Sinocyclocheilus anshuiensis" common:"" size:13.54 count:11911
+1676925 name:"Paramormyrops kingsleyae" common:"" size:13.71 count:13384
+1841481 name:"Seriola lalandi dorsalis" common:"" size:13.90 count:15245
 10090 -> 7955 width:1.00 count:1
 9031 -> 8128 width:1.00 count:1
 9031 -> 7955 width:1.00 count:1
