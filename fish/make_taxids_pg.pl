@@ -23,6 +23,19 @@ if ($OPT{c}) {
     close(COUNT);
 }
 
+my %CHECKED_NODE = ();
+open(TAXIDS, "taxid_edges") || die "$!";
+while (<TAXIDS>) {
+    chomp;
+    my @f = split();
+    my $tax1 = $f[0];
+    my $tax2 = $f[2];
+    $CHECKED_NODE{$tax1} = 1;
+    $CHECKED_NODE{$tax2} = 1;
+    print "$_\n";
+}
+close(TAXIDS);
+
 open(TAXID, "taxid.tsv") || die "$!";
 while (<TAXID>) {
     chomp;
@@ -36,20 +49,15 @@ while (<TAXID>) {
     if ($common eq "") {
         $common = '""';
     }
-    print "$taxid name:$name common:$common";
-    if ($N_GENES{$taxid}) {
-        my $count = $N_GENES{$taxid};
-        my $size = log($count)/log(2);
-        $size = sprintf("%.2f", $size);
-        print " size:$size count:$count";
+    if ($CHECKED_NODE{$taxid}) {
+        print "$taxid name:$name common:$common";
+        if ($N_GENES{$taxid}) {
+            my $count = $N_GENES{$taxid};
+            my $size = log($count)/log(2);
+            $size = sprintf("%.2f", $size);
+            print " size:$size count:$count";
+        }
+        print "\n";
     }
-    print "\n";
 }
 close(TAXID);
-
-open(TAXIDS, "taxid_edges") || die "$!";
-while (<TAXIDS>) {
-    chomp;
-    print "$_\n";
-}
-close(TAXIDS);
