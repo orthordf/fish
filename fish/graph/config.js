@@ -12,9 +12,4 @@
   },
   layout: 'default',
   style: "background: white;",
-  extraOptions: {
-    interaction: {
-      navigationButtons: true
-    }
-  }
 }
