@@ -7,9 +7,9 @@
 7955 -> 8128 width:7.26 count:5857
 7955 -> 8090 width:7.22 count:5543
 7955 -> 7936 width:7.14 count:4986
-7936 name:"Anguilla anguilla" common:"European eel" size:13.77 count:14014
-7955 name:"Danio rerio" common:"zebrafish" size:14.40 count:21561
-8090 name:"Oryzias latipes" common:"Japanese medaka" size:13.85 count:14718
-8128 name:"Oreochromis niloticus" common:"Nile tilapia" size:13.90 count:15319
-9606 name:"Homo sapiens" common:"human" size:14.26 count:19581
-31033 name:"Takifugu rubripes" common:"torafugu" size:13.78 count:14101
+7936 :Organism name:"Anguilla anguilla" common:"European eel" size:13.77 count:14014
+7955 :Organism name:"Danio rerio" common:"zebrafish" size:14.40 count:21561
+8090 :Organism name:"Oryzias latipes" common:"Japanese medaka" size:13.85 count:14718
+8128 :Organism name:"Oreochromis niloticus" common:"Nile tilapia" size:13.90 count:15319
+9606 :Organism name:"Homo sapiens" common:"human" size:14.26 count:19581
+31033 :Organism name:"Takifugu rubripes" common:"torafugu" size:13.78 count:14101
