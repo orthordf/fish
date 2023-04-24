@@ -2,7 +2,7 @@
 {
   node: {
     caption: ['common', 'count'],
-    defaultIcon: true,
+    defaultIcon: false,
     size: '@size',
   },
   edge: {
