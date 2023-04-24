@@ -56,7 +56,7 @@ while (<TAXID>) {
         $common = '""';
     }
     if ($CHECKED_NODE{$taxid}) {
-        print "$taxid name:$name common:$common";
+        print "$taxid :Organism name:$name common:$common";
         if ($N_GENES{$taxid}) {
             my $count = $N_GENES{$taxid};
             my $size = log($count)/log(2);
