@@ -1,6 +1,4 @@
 # NCBI Orthologs
 
-## Selected 5 fish
-
-### Blitzboard
-https://orthordf.github.io/ncbi-orthologs/fish/
+Selected 5 fish:
+* https://orthordf.github.io/fish/ (Blitzboard)
