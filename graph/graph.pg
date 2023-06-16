@@ -7,9 +7,9 @@
 7955 -> 8128 width:7.26 count:5857
 7955 -> 8090 width:7.22 count:5543
 7955 -> 7936 width:7.14 count:4986
-7936 :Organism name:"Anguilla anguilla" common:"European eel" size:13.77 count:14014
-7955 :Organism name:"Danio rerio" common:"zebrafish" size:14.40 count:21561
-8090 :Organism name:"Oryzias latipes" common:"Japanese medaka" size:13.85 count:14718
-8128 :Organism name:"Oreochromis niloticus" common:"Nile tilapia" size:13.90 count:15319
-9606 :Organism name:"Homo sapiens" common:"human" size:14.26 count:19581
-31033 :Organism name:"Takifugu rubripes" common:"torafugu" size:13.78 count:14101
+7936 :Organism name:"Anguilla anguilla" common:"European eel" size:13.77 count:14014 thumbnail:"http://commons.wikimedia.org/wiki/Special:FilePath/Anguilla%20anguilla.jpg"
+7955 :Organism name:"Danio rerio" common:"zebrafish" size:14.40 count:21561 thumbnail:"http://commons.wikimedia.org/wiki/Special:FilePath/Zebrafisch.jpg"
+8090 :Organism name:"Oryzias latipes" common:"Japanese medaka" size:13.85 count:14718 thumbnail:"http://commons.wikimedia.org/wiki/Special:FilePath/Oryzias%20latipes%28Hamamatsu%2CShizuoka%2CJapan%2C2007%29-1.jpg"
+8128 :Organism name:"Oreochromis niloticus" common:"Nile tilapia" size:13.90 count:15319 thumbnail:"http://commons.wikimedia.org/wiki/Special:FilePath/Oreochromis-niloticus-Nairobi.JPG"
+9606 :Organism name:"Homo sapiens" common:"human" size:14.26 count:19581 thumbnail:"http://commons.wikimedia.org/wiki/Special:FilePath/Human.svg"
+31033 :Organism name:"Takifugu rubripes" common:"torafugu" size:13.78 count:14101 thumbnail:"http://commons.wikimedia.org/wiki/Special:FilePath/Takifugu%20rubripes%20Kamo%20aquarium2.jpg"
